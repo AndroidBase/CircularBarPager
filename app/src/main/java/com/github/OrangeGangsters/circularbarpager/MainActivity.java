@@ -35,6 +35,7 @@ import com.viewpagerindicator.CirclePageIndicator;
 import daniel.olivier.stoyan.circularbarpager.R;
 
 /**
+ * 测试通过
  * Created by stoyan and oliviergoutay on 12/9/14.
  */
 public class MainActivity extends Activity {
